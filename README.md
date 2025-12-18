@@ -25,7 +25,7 @@ It works using HTTP **GET** and **POST** requests and follows proper **HTTP stat
 
 ```bash
 git clone https://learn.zone01oujda.ma/git/haitbenal/ascii-art-web-stylize.git
-cd ascii-art-web
+cd ascii-art-web-stylize
 go run main.go
 or
 go run .
