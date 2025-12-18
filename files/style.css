@@ -180,3 +180,22 @@ input::placeholder {
 .btn-forrbeden {
   color: white !important ;
 }
+
+@media (max-width: 768px) {
+  .header {
+    font-size: 35px;
+  }
+  .tag {
+    font-size: 30px;
+  }
+  .inputs label {
+    font-size: 15px;
+    padding: 5px;
+  }
+  form {
+    width: 80%;
+  }
+  .generate {
+    max-width: 80%;
+  }
+}
