@@ -1,9 +1,8 @@
 # ASCII-ART-WEB
 
 ## 📌 Description
+**Ascii-art-web-stylize** is a small web server written in Go that converts plain text into stylized ASCII art using selectable banner/font files and displays the result in a browser. It provides a minimal web GUI (HTML + CSS) so users can type text, choose a banner, and get the ASCII-art output instantly
 
-**Ascii-art-web** is a web application written in **Go** that allows users to generate ASCII art using different banners through a **web graphical user interface (GUI)**.  
-It is the web version of the previous **ascii-art** project, where users can enter text, choose a banner, and instantly view the ASCII result in the browser.
 
 The application supports the following banners:
 
